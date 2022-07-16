@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class ano {
+	public static void main(String[] args) {
+	
+	Scanner leitor = new Scanner(System.in);
+	System.out.println("Em que ano você nasceu?");
+	int ano = leitor.nextInt();
+	System.out.println("Em que ano estamos?");
+	int ano2 = leitor.nextInt();
+	
+	int aniv = ano - ano2;
+	int naoAniv = ano - ano2 + 1;
+	
+	System.out.println("Sua idade é " + aniv + " ou " + naoAniv);
+			
+	
+	
+}
+}

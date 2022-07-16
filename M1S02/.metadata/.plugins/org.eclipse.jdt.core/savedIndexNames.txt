@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\lmari\Documents\FuturoDev\Exercícios\M1S02\.metadata\.plugins\org.eclipse.jdt.core
+1973461047.index
+1593003918.index
+1865797976.index
+1970429877.index
